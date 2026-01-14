@@ -8,6 +8,15 @@ using namespace std;
 
 int main() {
     cout << "Hello World" << endl; // E N D L
-    cout << endl; // another new line
+    cout << "Whats up" << endl; // E N D L
+    cout << endl; // another new line 
     return 0; // no errors 
+
+    /*
+    next we will:
+    - make a variable (a noun) to store the user's name
+    - ask them for the name
+    - greet them by name 
+    */
+   return 0; // no errors
 } 
