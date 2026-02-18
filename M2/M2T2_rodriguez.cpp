@@ -23,6 +23,7 @@ int main() {
 
 
     // Get user input
+    cout << "Welcome to the CSC 134 Grill." << endl;
 
     //Do the calculation
 
