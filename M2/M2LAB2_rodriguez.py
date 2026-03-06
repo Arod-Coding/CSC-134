@@ -2,7 +2,7 @@ import turtle
 import colorsys
 
 # --- Setup ---
-screen = turtle.Scren()
+screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("Rainbow Mandala with Initials")
 
@@ -40,4 +40,32 @@ def draw_initials():
     t.pendown()
 
     # Draw A
-    
+    t.goto(-60, 60)
+    t.goto(-80, -20)
+    t.penup()
+    t.goto(-70, 10)
+    t.pendown()
+    t.goto(-50, 10)
+
+    # Move to R
+    t.penup
+    t.goto(10, -20)
+    t.pendown
+
+    # Draw R
+    t.goto(10, 60)
+    t.goto(40, 60)
+    t.goto(40, 20)
+    t.goto(10, 20)
+    t.penup()
+    t.goto(10, 20)
+    t.pendown()
+    t.goto(45, -20)
+
+# --- Run Drawing ---
+draw_spiral()
+draw_initials()
+
+print("Drawing complete")
+screen.exitonclick()
+
