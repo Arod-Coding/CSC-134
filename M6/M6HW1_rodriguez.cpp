@@ -1,5 +1,4 @@
-
-// M6LAB1 - Slime Roulette
+// M6HW1
 // Adrian Rodriguez
 // 4/27/26
 
