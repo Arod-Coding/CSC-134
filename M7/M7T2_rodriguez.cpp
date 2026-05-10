@@ -3,7 +3,7 @@
 // 05/04/2026
 
 #include <iostream>
-#include "Rectangle.h"
+#include "rectangle.h"
 using namespace std;
 
 // Constructor
